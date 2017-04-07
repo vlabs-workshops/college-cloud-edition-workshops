@@ -1,0 +1,189 @@
+#+Title: Workshop at Vardhaman College of Engineering
+#+DATE: [2017-04-06 Thu]
+
+* Conversation on email thread after the workshop
+  #+BEGIN_EXAMPLE
+  Vardhaman Engg College - College Cloud Workshop
+6 messages
+Lalit Mohan <lalit@vlabs.ac.in>	Thu, Apr 6, 2017 at 10:39 PM
+To: Ravi Shankar <ravi@vlabs.ac.in>, Priya Raman <priya@vlabs.ac.in>, PVS Maruthi Rao <maruthi.pvs@vlabs.ac.in>, Thirumal Ravula <travula@vlabs.ac.in>
+Cc: Siva Shanker Narimalla <shankar@vlabs.ac.in>, Ravi Kiran <ravi.kiran@vlabs.ac.in>, Raghupathi Kammari <raghupathi@vlabs.ac.in>, Sravanthi Bhattlapenumarthi <sravanthi@vlabs.ac.in>, Sravanthi Modepu <sravanthimodepu@vlabs.ac.in>
+Dear All,
+
+Siva, Raghupathi Ravi Kiran and I went to Vardhaman Engg College for
+conducting workshop. We started with a demo of Online version and
+moved to College Cloud.  We had both versions running as there were
+constraints of bandwidth
+
+Following are some of the observations
+
+
+1) Some of the labs did not load (image processing and problem
+   solving) for online version.  Action item - Lalit will prepare a
+   rubic for identification of working labs and will contact Virtual
+   Labs participating institutes to identify those labs and prepare a
+   consolidated list.  Will send an email and have the list ready by
+   Apr 17th.
+
+2) On college cloud - labs that are deployed for use were not opening
+   consistently for users including Feedback form. Ravi Shankar garu,
+   Maruthi Rao garu to have a meeting on this tomorrow(Apr 7) to
+   discuss on College Cloud with Professor Venkatesh sir. An action
+   plan will emerge after the meeting.  This could include removal of
+   Wifi router as DHCP, forum for interacting with participants of
+   College Cloud Workshop held @ IIIT-Hyd on Mar 15, etc
+
+3) Understand the need and removal of labs that are in "in
+   progress/under construction" from open edX.  Priya, Ravi Garu and
+   Lalit to discuss on this.
+
+4) Usability for accessing labs has been a struggle. Lalit to reach
+   out Usability team on this again !
+
+
+There were 30 students from ECE, CSE and IT and 2 Faculty from Mech
+and ECE.  The feedback has been mixed, we also collected physical copy
+of feedback form as the online feedback form was not completed.
+
+Also, it would be interesting to see if the participating students
+have accessed the Virtual Labs after college hours - may be Ravi Kiran
+can take this up for data analysis
+
+Siva/Raghupathi/Ravi Kiran - please add/modify if I missed anything
+
+
+Sincerely
+Lalit
+Siva Shanker Narimalla <shankar@vlabs.ac.in>	Fri, Apr 7, 2017 at 11:14 AM
+To: Lalit Mohan <lalit@vlabs.ac.in>
+Cc: Ravi Shankar <ravi@vlabs.ac.in>, Priya Raman <priya@vlabs.ac.in>, PVS Maruthi Rao <maruthi.pvs@vlabs.ac.in>, Thirumal Ravula <travula@vlabs.ac.in>, Ravi Kiran <ravi.kiran@vlabs.ac.in>, Raghupathi Kammari <raghupathi@vlabs.ac.in>, Sravanthi Bhattlapenumarthi <sravanthi@vlabs.ac.in>, Sravanthi Modepu <sravanthimodepu@vlabs.ac.in>
+These are my observations,
+
+Online version ( Internet):
+
+1. Reasons for Image processing labs and problem solving and even data
+   structures lab too, are,
+
+   Following could be factors,
+   1. Institute/College Overall Internet Speed
+   2. Internet speed in the computers lab that has given to us for the
+      workshop by the college.
+   3. How participants are accessing the labs( Over Wifi or LAN),
+       1.  If They use LAN, Labs would load properly.
+       2. If they use Wifi, again accessing the labs depends on wifi
+          signal strength here.
+
+2. Above two labs were working in previous three workshops( GMRIT,
+   Matrusri and MJCET).
+
+
+Offline Version ( Intranet, College Cloud)
+
+1. I wonder, we have conducted three workshops, in this three
+   workshops we used "Image Processing lab, Computer Programing Lab,
+   data structures labs and also other labs for the demo and also we
+   have given them these labs to perform experiments.
+
+
+These are the things we may have to look into,
+
+Offline Version
+1. Workshop participants have to use LAN, then only we will not face
+   above problems( As said by Mr. Lalit).  Based on previous workshops
+   i am mentioning this point here. We have not faced Issue with
+   loading three above labs in previous workshop.
+2. If they use Wifi, max 10-15 labs can be accessed by the lab users.
+   Unfortunately, This is what happened at Vardhaman College, in
+   Vardhman College, desktop computers are supporting wifi( desktop
+   computers are able connect to WiFi.
+
+   Most of the colleges would not be having this advantage, so, in
+   this case, they will be using LAN. Then there will not be "labs are
+   not loading properly or slowly issue.
+
+3. As Lalit said, there are some labs that are not working, we have to
+   remove them from College Cloud.
+
+
+
+I would be adding more points to this thread
+
+
+
+[Quoted text hidden]
+-- 
+Thanks & Regards,
+Siva Shanker Narimalla,
+Project Engineer
+VLEAD, IIIT Hyderabad.
+Siva Shanker Narimalla <shankar@vlabs.ac.in>	Fri, Apr 7, 2017 at 11:16 AM
+To: Lalit Mohan <lalit@vlabs.ac.in>
+Cc: Ravi Shankar <ravi@vlabs.ac.in>, Priya Raman <priya@vlabs.ac.in>, PVS Maruthi Rao <maruthi.pvs@vlabs.ac.in>, Thirumal Ravula <travula@vlabs.ac.in>, Ravi Kiran <ravi.kiran@vlabs.ac.in>, Raghupathi Kammari <raghupathi@vlabs.ac.in>, Sravanthi Bhattlapenumarthi <sravanthi@vlabs.ac.in>, Sravanthi Modepu <sravanthimodepu@vlabs.ac.in>, Venkatesh Choppella <choppell@vlabs.ac.in>, Venkatesh Choppella <venkatesh.choppella@iiit.ac.in>, vlead-employees@vlabs.ac.in
+Adding Prof and VLEAD employees to this thread
+[Quoted text hidden]
+Thirumal Ravula <travula@vlabs.ac.in>	Fri, Apr 7, 2017 at 11:46 AM
+To: Siva Shanker Narimalla <shankar@vlabs.ac.in>
+Cc: vlead-staff <vlead-staff@vlabs.ac.in>
+Dear Shiva/Lalit,
+
+I guess this conversation should be part of the the repository that
+holds all workshop information.  You can send an email pointing to
+that link.
+
+Sincerely
+Thirumal Ravula
+
+On Fri, Apr 7, 2017 at 11:14 AM, Siva Shanker Narimalla <shankar@vlabs.ac.in> wrote:
+[Quoted text hidden]
+
+Siva Shanker Narimalla <shankar@vlabs.ac.in>	Fri, Apr 7, 2017 at 11:59 AM
+To: Lalit Mohan <lalit@vlabs.ac.in>
+Cc: Ravi Shankar <ravi@vlabs.ac.in>, Priya Raman <priya@vlabs.ac.in>, PVS Maruthi Rao <maruthi.pvs@vlabs.ac.in>, Thirumal Ravula <travula@vlabs.ac.in>, Ravi Kiran <ravi.kiran@vlabs.ac.in>, Raghupathi Kammari <raghupathi@vlabs.ac.in>, Sravanthi Bhattlapenumarthi <sravanthi@vlabs.ac.in>, Sravanthi Modepu <sravanthimodepu@vlabs.ac.in>, Venkatesh Choppella <choppell@vlabs.ac.in>, Venkatesh Choppella <venkatesh.choppella@iiit.ac.in>, vlead-employees@vlabs.ac.in
+What was happened in Vardhaman Enginneering College?
+
+There were around 30 participants,
+
+There were three connections to access the labs
+ 1.  Two Wi-Fis, College Wifi which has Internet access and College
+     Cloud Wi-Fi which has no Internet access.  Due to College Wi-fi
+     was very slow, even for 5 users/participants, labs/any other
+     websites were not loading faster.  During the slides
+     presentation, Lalit has connected to College Wi-fi to show our
+     labs on online. we have seen loading issue, so thought of using
+     College Cloud edition. We enabled College Cloud for the demo.
+ 
+ 2. There is a LAN connection also,
+
+
+Now, the students have chance of choosing any one from three available
+choices. So, initially all of them are connected to their own college
+wifi which was not working properly for all of them at a time.
+
+Then,some them are connected to College Cloud wi-fi which supports
+only for 10-15 users/participants but there were 30 participants which
+is not suitable over wifi ( as we know) to access the labs.
+
+
+3. For feedback, yes it was not loading properly. Because even lab's
+   experiments not loading properly. How do we expect feedback page
+   will open instantly just like that.
+
+
+
+Finally, based on my observations. ( If my observations may be wrong,
+please correct me personally or in this email thread)
+
+1. If they are more than 10 lab users are using labs over the Wifi,
+   labs will not load properly on both online and offline. It depends
+   on Internet bandwidth speed.
+2. We have to change cluster setup design.
+    1. No load balancer
+    2. One way traffic for the experiments . vlabs.ac.in(Open-edx
+       Platform)--> Router-->Reverseproxy-->Lab VM. there is no other
+       way to access the labs. I felt, for the college cloud, there is
+       too much burden on Open edX platform,then router, and then
+       reverseproxy.
+
+3. I request, we have to rethink offline solution setup for better
+      performance results.
+  #+END_EXAMPLE 
