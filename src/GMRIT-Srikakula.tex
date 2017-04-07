@@ -1,0 +1,253 @@
+% Created 2017-01-25 Wed 10:40
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\author{VLEAD}
+\date{\today}
+\title{Pilot Workshop at GMRIT, Srikakulam}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 24.5.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Objective of the workshop}
+\label{sec-1}
+\begin{itemize}
+\item College Cloud should be able to serve the labs to the students
+to perform experiments or to use the labs without the Internet
+connection.
+
+\item Conduct the workshop offline using portable-media.
+
+\item Note down the issues if there are any, during the workshop and
+report the issues to \texttt{engg@vlabs.ac.in}
+\end{itemize}
+
+\section{Introduction on Pilot Test}
+\label{sec-2}
+\subsection{Introduction}
+\label{sec-2-1}
+Introduction about Portable-media
+\begin{itemize}
+\item What is Portable-Media?
+\end{itemize}
+\subsection{Demo Lab}
+\label{sec-2-2}
+\begin{itemize}
+\item \texttt{Image Processing Lab}
+\end{itemize}
+\subsection{Limitations}
+\label{sec-2-3}
+\begin{itemize}
+\item 15-20 students in one run
+\end{itemize}
+\subsection{Number of Students and Workshop duration}
+\label{sec-2-4}
+Let's say, for example, 20 students per 30 mins, so for 100
+students=5 groups, 5*30mins= 150mins= 2 hrs 30 mins
+\subsection{How many labs at a time + Which Labs?}
+\label{sec-2-5}
+\begin{itemize}
+\item Two labs at a time 
+\begin{itemize}
+\item Problem solving (cse04-iiith.vlabs.a.cin)
+\item Image Processing (cse19-iiith.vlabs.ac.in)
+\end{itemize}
+\end{itemize}
+\subsection{Feedback collection with reference to portable media}
+\label{sec-2-6}
+After the workshop, collecting feedbacks and analytics on
+portable-media.
+
+\section{Pilot workshop details}
+\label{sec-3}
+\subsection{9th Jan 2017 - afternoon}
+\label{sec-3-1}
+Took Xenon server 
+Copied college cloud to GMRIT's 500GB SATA HDD
+\subsection{10th Jan 2017}
+\label{sec-3-2}
+\subsubsection{Morning session 10:00AM to 12:00 PM}
+\label{sec-3-2-1}
+\begin{itemize}
+\item Took the machine
+\item Attached GMRIT's 500 GB SATS HDD college cloud
+\item Connected wifi routers LAN port to the machine
+\item Booted the machine
+\item Tested one lab with the college cloud - It was working
+
+\item I have taken five IPs from GMRIT network. These ips will be used
+for college cloud setup. So that, every one can access virtual
+labs over LAN. I have configured college cloud with the five
+ips.
+\begin{itemize}
+\item I have taken client machine to test college cloud in the same
+LAN.
+\item Open edX platform was opening but lab was opening very slow.
+\item Then I went to the other place where workshop is going
+on. Open edX platform was not opening
+\end{itemize}
+
+\item I thought of using normal computer that is there in workshop lab
+\begin{itemize}
+\item It has very less system configuration
+\begin{itemize}
+\item RAM : 4GB ( which is not enough for our college cloud)
+\end{itemize}
+\end{itemize}
+\item They could not bring other machine that has better system
+configuration
+
+\item Finally, I used my lap top
+\begin{verbatim}
+RAM : 8GB ( 4 GB for Open-edX platform, 4GB for host machine)
+CPUs:4  ( 2 for Open-edX platform, 2 for Host machine( cluster))
+Processor model : Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz
+\end{verbatim}
+\end{itemize}
+\subsubsection{Afternoon Session 2:00PM to 4:30 PM}
+\label{sec-3-2-2}
+\begin{itemize}
+\item Booted Sony 1 TB USB HDD from my laptop
+\item Connected to Wifi-router
+\item Removed Incoming connection in the lab in switch from where
+all desktop machine gets DHCP IPs.
+
+\item Took one LAN cable and established LAN connection between
+switch and Wi-Fi router
+\item Now all desktop machines are getting dhcp ip from wi-fi router
+\item 30 machines are now connected to college cloud
+\item Around 30 students attended to the college cloud pilot
+test.
+\item Used \textbf{Problem Solving} lab to show demo
+\item Then, We asked students to perform experiments on that lab
+\item After 40 minutes, I have started another lab \textbf{Data structure} (
+Students choice). That means there are now two labs running in
+college college.
+\item Out of 30 students, 26 students were performing experiments on
+two labs
+\item We asked students to choose any lab from the running two labs
+\textbf{Problem solving} and \textbf{Data structures} and perform any
+experiments.
+\item Final result, Every student was able to perform any experiment
+from any lab from the two labs mentioned above without any
+loading issue.
+\item At around 4:30 PM, we have asked students to submit their
+feedback  on college cloud by providing feedback forms(Hard
+copy)
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+\subsection{Overall College cloud pilot test}
+\label{sec-3-3}
+For College Cloud pilot test, I used following system configuration
+\begin{verbatim}
+RAM : 8GB ( 4 GB for Open-edX platform, 4GB for host machine)
+CPUs:4  ( 2 for Open-edX platform, 2 for Host machine( cluster))
+Processor model : Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz
+\end{verbatim}
+
+\begin{center}
+\begin{tabular}{rrll}
+\hline
+No.of.Students & No.of.Labs & RAM Usage & CPU usage\\
+\hline
+26(30) & 1 & TBD & TBD\\
+\hline
+26(30) & 2 & TBD & TBD\\
+\hline
+\end{tabular}
+\end{center}
+
+\subsubsection{Issues while workshop is going on}
+\label{sec-3-3-1}
+Feedback link was not working on edX platform.
+
+\section{Analysis/observations}
+\label{sec-4}
+\begin{description}
+\item[{Over the LAN}] 50 students can use College Cloud at a time using
+the above system configuration for 5 labs. 
+
+If we use
+\begin{verbatim}
+Processor : Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz   ( Model : intel-db75en)
+RAM : 16 GB
+SMPS : 600 W
+CPUs: 8 four
+MotherBoard wattage: 77 W
+\end{verbatim}
+
+I am sure, 100-200 students can use College Cloud
+for 10-20 labs at a time( May be more).
+\item[{Over the Wi-Fi}] \begin{itemize}
+\item System configuration 
+\begin{verbatim}
+RAM : 8GB ( 4 GB for Open-edX platform, 4GB for host machine)
+CPUs:4  ( 2 for Open-edX platform, 2 for Host machine( cluster))
+Processor model : Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz
+\end{verbatim}
+Max 15-20 students can use the College Cloud.
+
+\item System Configuration  
+\begin{verbatim}
+Processor : Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz   ( Model : intel-db75en)
+RAM : 16 GB
+SMPS : 600 W
+CPUs: 8 four
+MotherBoard wattage: 77 W
+\end{verbatim}
+(\textbf{Assumption}) Max 60-80 students can use College Cloud at a
+time
+\end{itemize}
+\end{description}
+
+\section{Post Work shop}
+\label{sec-5}
+\begin{itemize}
+\item Once we reach VLEAD, IIITH, Hyderabad, I have checked why feedback
+link was not working?
+\item[{Solution}] That was my mistake. I have loaded up different
+vagrant box instead of working one. We had 4-5 vagrant
+boxes in College cloud.
+\end{itemize}
+
+\section{Conclusion}
+\label{sec-6}
+As we expected, we are successfully completed pilot test using
+college cloud.  My observation is, College Cloud should run on LAN
+in order to achieve 100-200 users for 10-20 labs at a time. Over the
+Wifi only 20-30 students/lab users can use 3-5 labs at a time, it
+very low as we know.
+% Emacs 24.5.1 (Org mode 8.2.10)
+\end{document}
