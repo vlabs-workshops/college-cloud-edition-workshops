@@ -56,3 +56,5 @@
 ** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
    - [[./GMRIT-Srikakula.org][GMRIT,Srikakulam]]
      
+** Vardhaman College of Engineering, 6th April 2017
+   - [[./vardhaman-Hyderabad.org][Vardhaman College of Engineering, Hyderabad]]
