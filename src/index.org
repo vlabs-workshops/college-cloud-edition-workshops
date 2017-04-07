@@ -50,7 +50,7 @@
    - Portable-Media 
    - Wi-Fi router
    - LAN cables
-   - [[./user-manual-for-portablemedia.org][User Manual]]
+   - [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][User Manual]]
    - 4GB Pendrive
 * Workshops 
 ** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
