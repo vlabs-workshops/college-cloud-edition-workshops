@@ -1,10 +1,11 @@
-#+TITLE: Portable-Media for College/Institute.
-#+Author: VLEAD
+#+TITLE: Virtual Labs College Cloud Edition Workshops
+#+Author: VLEAD Systems team
 
 * Introduction
   Use the portable media and conduct the workshop offline in any
-  college or institute.
-  The document contains mainly about the workshops to be conducted offline in various institutes using portable-media.
+  college or institute.  The document contains mainly about the
+  workshops to be conducted offline in various institutes using
+  portable-media( Virtual Labs College Cloud Edition) .
 * Objective of the workshop
   - Portable media should be able to serve the labs to the students
     to perform experiments or to use the labs without the Internet
