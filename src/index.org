@@ -55,6 +55,12 @@
 * Workshops 
 ** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
    - [[./GMRIT-Srikakula.org][GMRIT,Srikakulam]]
-     
+** Muffakham-Jah-College-of-Engineering, Hyderabad, 10th March 2017
+   - [[./Muffakham-Jah-College-of-Engineering-hyd.org][Muffakham-Jah-College-of-Engineering-hyd]]   
 ** Vardhaman College of Engineering, 6th April 2017
    - [[./vardhaman-Hyderabad.org][Vardhaman College of Engineering, Hyderabad]]
+** Matrusri College of Engineering , Saidabad, Hyderabad, 27th Feb 2017
+   - [[./matrusri-hyd.org][Matru Sree College of Engineering]]
+** JUIT, Solan, Himachal Pradesh [2017-05-08 Mon] to [2017-05-12 Fri]
+   - [[./solan-workshop-report.org][JUIT, Solan, Himachal Pradesh]]
+   
