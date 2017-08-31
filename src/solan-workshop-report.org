@@ -1,0 +1,157 @@
+#+Title: Report on JUIT, Solan workshop
+#+Author: Siva Shanker
+#+Date: [2017-05-30 Tue]
+
+* Introduction
+  The Documents contains the workshop details conducted at JUIT,Solan
+  workshop.
+
+* Workshop Details
+  - Venue :: JUIT, Waknaghat, Solan, Himachal Pradesh
+  - Date :: [2017-05-08 Mon] to [2017-05-12 Fri]
+  - Time :: 09:00 to 17:00
+
+** Team from VLEAD
+
+|-----+-----------------------+-----------------------+------------------------------|
+| No. | Resource Person       | Position              | Role                         |
+|-----+-----------------------+-----------------------+------------------------------|
+|  1. | Venkatesh Choppella   | Assoc. Prof. at IIITH | Conducting workshops         |
+|     |                       | Virtual Labs co-PI    | Interacting with faculty     |
+|     | Mob:+ 91 965 274 0281 | Primary Contact       |                              |
+|-----+-----------------------+-----------------------+------------------------------|
+|  2. | Thirumal Ravula       | Tech. Lead and Mgr.   | Conducting workshop          |
+|     |                       | VLEAD, IIIT Hyderabad |                              |
+|-----+-----------------------+-----------------------+------------------------------|
+|  3. | Siva Shankar          | N/W and Systems Engr. | Hardware and N/W Engineering |
+|     |                       | VLEAD                 | for setting up the           |
+|     |                       |                       | College cloud                |
+|-----+-----------------------+-----------------------+------------------------------|
+|  4. | Sripathi Kammari      | Software Engr. VLEAD  | Configuration of  services   |
+|     |                       |                       | and labs                     |
+|-----+-----------------------+-----------------------+------------------------------|
+
+** Workshop schedule
+
+|-----+------------------+---------------------------------|
+| Day | Date             | Event                           |
+|-----+------------------+---------------------------------|
+|   1 | [2017-05-08 Mon] | Arrival of team                 |
+|-----+------------------+---------------------------------|
+|   2 | [2017-05-09 Tue] | Setting up college cloud        |
+|-----+------------------+---------------------------------|
+|   3 | [2017-05-10 Wed] | Workshop for faculty            |
+|     |                  | Discussion and Feedback         |
+|-----+------------------+---------------------------------|
+|   4 | [2017-05-11 Thu] | Workshop for Students           |
+|     |                  | Discussion and Feedback         |
+|-----+------------------+---------------------------------|
+|   5 | [2017-05-12 Fri] | How to Design A Web Application |
+|     |                  | A systems Approach              |
+|     |                  | 3 hour workshop for IT,         |
+|     |                  | CSE faculty                     |
+|-----+------------------+---------------------------------|
+* Objectives of the Workshop
+  - Understand, install and use Virtual Labs College Cloud Edition
+  - Get trained to System Administrator/ responsible person who is
+    actually operates Virtual Labs College Cloud server.
+* Summary of the Workshop
+** Day 1 : 2017-05-08 Mon 
+   - VLEAD Team has reached JUIT
+** Day 2: [2017-05-09 Tue] - Setting up College Cloud
+   - Taken the two machines from JUIT
+     + Configuration each machine as follows
+     #+BEGIN_EXAMPLE
+     Machine Name : Dell Precision Tower 3420 xcto BASE
+     Processor : Intel® Xeon® Processor E3-1225 v5
+     RAM : 32 GB for Cluster machine and 16 GB for EdX machine
+     #+END_EXAMPLE
+     + Reference links
+       1. http://ark.intel.com/products/88168/Intel-Xeon-Processor-E3-1225-v5-8M-Cache-3_30-GHz
+       2. http://www.dell.com/in/business/p/precision-t3x20-series-workstation/pd
+
+       3. http://i.dell.com/sites/doccontent/shared-content/data-sheets/en/Documents/CSG-Dell-Precision-Tower-3000-Series-3420-Spec-Sheet-EN-XX.pdf
+
+   - Deployed Viirtual-Labs College Cloud edition using above two
+     machines
+   - Tested the complete setup without touching LAN 
+   - Provided client environment to run Virtual Labs by installing
+     Virtual-Box in 25 to 30 machines.
+     + Client Environment in JUIT is a Virtual-Box with ubuntu
+       14.04. Get this box from
+       http://files.vlabs.ac.in/downloads/cc-client-ubuntu-14.04.ova
+
+     + Installed Lab required dependencies. Get the list of
+       dependencies from
+       https://gitlab.com/vlabs-workshops/ws-material/blob/master/vlabs-client-linux-dependencies.org
+     + Installed Firefox version 40.0 and removed latest Firefox
+       version 53.0
+     + then, created cc-client-ubuntu-14.04.ova box
+     + Put ubuntu box in
+       http://files.vlabs.ac.in/downloads/cc-client-ubuntu-14.04.ova
+     + Made it available to public
+   
+       
+** Day 3: [2017-05-10 Wed] - Workshop for faculty, Discussion and Feedback
+   Prof. Venkatesh Chopella has taken the session. The session was on
+   about Virtual Labs, Git, Virtual Labs on College Cloud, etc.
+** Day 4: [2017-05-11 Thu] - Workshop for Students, Discussion and Feedback
+   - Given training to System admin on College Cloud setup using
+     http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual-for-two-machines.html
+   - Explained how to submit/send collected logs to VLEAD team.
+   - 25 students were attended for college cloud edition workshop
+   - Given 8 labs at a time to the students to do experiments
+   - Explained what are Virtual Labs.
+   - Explained What is College Cloud Edition?
+   - Explained how to do experiments in college cloud edition.
+   - Explained how to submit feedback while using College Cloud
+     edition.
+   - Workshop is done successfully without any issues. 
+   - Collected the Hard Copy feedback forms and attendance sheet. 
+** Post Workshop, Day 6: [2017-05-13 Sat] - Workshop wrap up
+   - Given chance to system admin to setup college cloud sever with
+     two machines using newly cloned HDDs.
+   - Packed up we carried items in the box and sealed the box.
+* Things that went well
+  1. Sessions by Prof. Venkatesh Chopella on various things such as
+     Virtual Labs, git, etc.
+  2. Training on College Cloud Edition.
+  3. Providing Virtual Labs client side environment, ubuntu 14.04
+     Virtual Box.
+  4. Even there were 9 labs + cluster containers 7, total 16 containers
+     running, lab users/Students not seen any delay in accessing the
+     labs.
+  5. Submission of feedback
+  
+* Things that went wrong
+  1. Hard Disk Drives Cloning.
+     + They purchased external 1TB HDDs instead of 500 GB Internal HDDs
+  2. Ubuntu Virtual box was not named properly. Typo in Virtual-Box
+     name.
+     + It suppose to be =ubuntu-14.04-college-cloud.ova= but we have
+       given =Ubunntu-14.04-College-Cloud.ova=.
+     + Changed the name of virtual box in every machine( 30
+       machines). This was instructed by Prof. Venkatesh and Thirumal.
+     + Each machine took <1 minute to modify the name of Virtual Box.
+* Calculate College Cloud usages and feedbacks
+ JUIT workshop data:
+  1. Collected the logs in the form of .tar.gz from College Cloud which was used for JUIT,
+     Solan, Workshop.
+  2. Given the .tar.gz file to Sripathi to push them into production ELK
+     service and to outreach portal. So that, get the actual usage,
+     feedback of the JUIT,Solan workshop.
+  3. Got the Usages, feedbacks counts from .tar.gz file
+     + No.of usages : 129
+     + No.of feedbacks submitted : 26
+  4. Counted Hard Copy feedback forms.  There are total
+     40 feedback forms received from JUIT workshop.
+    
+     + Total no.of Participants : 76 (As per attendance sheet)
+     + Total no.of Physical feedback forms : 40
+     + No.of Students : 25
+     + No.of Faculty & Staff: 15
+     + No.of Feedback form submitted college cloud  as calculated from Outreach Portal : 26
+     + No.of Experiments as per physical feedback form : 52    
+
+
+

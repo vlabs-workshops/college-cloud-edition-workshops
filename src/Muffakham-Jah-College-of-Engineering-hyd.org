@@ -1,0 +1,29 @@
+#+Title: Workshop at Muffakham-Jah-College-of-Engineering
+#+DATE: [2017-08-31 Thu]
+
+* Introduction
+  The Documents contains the workshop details conducted at Muffakham-Jah-College-of-Engineering
+
+* Workshop Schedule and Venue
+    Introdction to Virtual Labs - 10 minute presentation
+    A Brief on the College Cloud version of the Labs - 10 minute demo
+    Participants browse or use the labs and record their feedback in the forms provided. 
+    Questions and Answer Session
+  - Venue :: Muffakham-Jah-College-of-Engineering ( MJCET)
+  - Date :: [2017-03-10 Fri]
+  - Time :: 14:00 to 17:00
+* Team From VLEAD
+  Siva Shanker, Ravi Shanker and Raghupathi
+  Carried our VLEAD's Machine to conduct workshop.
+
+* Summary of the Workshop  
+  - College Cloud setup within the LAN
+  - Participants : 40-50
+  - Number of labs used for workshop: All available labs in College
+    Cloud ( around 69 labs)
+* Issues during the workshop
+  - Some labs feedback links/pages were not loading/working.
+  - Some of the experiments of labs were not loading as they were
+    pointing to respective institute servers. Since College cloud does
+    not have Internet connectivity it was not able to talk external
+    links.

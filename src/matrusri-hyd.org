@@ -1,0 +1,117 @@
+#+Title: Workshop at  Matrusri Engineering College
+#+DATE: [2017-08-31 Thu]
+
+* Introduction
+  The Documents contains the workshop details conducted at Matrusri
+  Engineering College.
+
+* Workshop Schedule and Venue
+  - Venue :: Matrusri College of Engineering , Saidabad 
+  - Date :: [2017-02-27 Mon]
+  - Time :: 14:00 to 16:00
+* Team From VLEAD
+  Siva Shanker, Ashay Maheswari, Maruthi, Ravi Shanker. 
+  Carried our VLEAD's Machine to conduct workshop.
+
+* Summary of the Workshop  
+  - College Cloud setup within the LAN
+  - Participants : Faculty (20) and Students(35) from CSE,IT,Mech,ECE
+  - Number of labs used for workshop: 6 Labs
+
+    1. Image processing Lab - demo lab
+
+    After the demo, Started following labs based on participants
+    requests.
+    1. Problem solving
+    2. Computer programming lab
+    3. Digital Logic design
+    4. Data structures.
+    5. Fluid Mechanics
+
+* Issues during the workshop
+  - Feedback pages were not loading/working.
+  - Some of the experiments of labs were not loading as they were
+    pointing to respective institute servers. Since College cloud does
+    not have Internet connectivity it was not able to talk external
+    links.
+
+* Post Workshop discussions at VLEAD
+  Post workshop feedback
+
+  1. Audience: 
+
+     a) There is a mix of students and faculty from Electrical /
+     Mechanical / Civil / Electronics / Computers.
+
+     *Observation*: While demo, participants started looking for labs /
+     experiments specific to their branch of engineering. Obviously,
+     they did not find what they are looking for. Mainly due to the
+     fact, we run only 4 or 5 labs (VMs).
+
+     - Suggestion 1 :: For demos, or even in production, the UI
+                        should only show the labs whose VMs are
+                        running.  This may be achieved statically or
+                        dynamically. For demo, it is better to limit
+                        the UI elements corresponding to the VMs
+                        running. Achieving such a dynamic behaviour is
+                        complex and needs to understand the internals
+                        of the edX. Further more, "Service Not
+                        Available" error should be replaced with more
+                        meaningful message.
+ 
+     - Suggestion 2 :: Chose only limited set of faculty members
+                       first; plan 30 minutes session ahead of the
+                       full demo.
+
+     - Suggestion 3 :: Make seating arrangements based on the
+                       engineering discipline. This helps the
+                       presenter to focus to a group if needed.
+
+     - Suggestion 4 :: Make arrangements - 1 terminal for 2
+                       students. It is a quick demo, so it is OK to
+                       learn together.
+
+     - Suggestion 5 :: Distinguish who is at which year / semester.
+
+  2. *Sound systems ::* If available, better to arrange a sound system in
+     the demo / workshop hall.
+
+  3. *Assistants :* At least 5 TA/RA/Employees/Trainers are needed to
+     handle the queries from the audience while demos.
+
+Suggestion on Agenda and schedule:
+  1. Intro session: 10 minutes. 2 speakers 5 minutes each. 
+      Distribute handouts about the labs. URL to access, feedback form - 5 minutes.
+    
+      Total Intro session: 15 minutes.
+
+  2. When a main demo is started, a clear Agenda should be
+     displayed. Each step is sequential and synchronous; i.e,
+     participants and presenters are doing the tasks below in sync.
+
+       1. User registration - say 10 minutes.
+       2. Logged in user screen / features - a quick glance. 5 minutes
+       3. Enrol / subscribe to Labs.  - 5 minutes
+       4. Recap - 5 minutes. Works like a buffer.
+     -------------- around 25 to 30 minutes past the demo ---------------
+       1. The structure of Labs, Experiments. - 10 minutes. 
+       2. First Lab by respective TA/RA/Faculty - Just focus on 1
+          lab. All the participants should just follow the
+          instructions of the Presenter only. - 10 minutes.
+
+     6.1 Recap of the Lab 5 minutes.
+       1. Second Lab by respective TA/RA/Faculty - Just focus on 1
+          lab. All the participants should just follow the
+          instructions of the Presenter only. - 10 minutes.
+
+     7.1 Recap of the Lab 5 minutes.
+     -------------- around 40 to 45 minutes past the demo ---------------
+       1. If the audience is from many engineering disciplines, they
+          extend the lab demo for each discipline. 
+
+     Total: 1 Hour 30 minutes by now.
+
+     Q&A + feedback faculty: 15 minutes. 
+     Q&A + feedback students: 15 minutes.
+
+     Total: 2:00 Hours.
