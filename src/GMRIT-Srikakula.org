@@ -31,6 +31,11 @@
    portable-media.
 
 * Pilot workshop details
+** Workshop venue details
+   - Venue :: GMRIT, Srikakulam, Saidabad 
+   - Date :: [2017-01-09 Mon] and [2017-01-10 Tue]
+   - Time :: 10:00 to 16:00
+
 ** 9th Jan 2017 - afternoon
    Took Xenon server 
    Copied college cloud to GMRIT's 500GB SATA HDD
@@ -123,6 +128,7 @@
 
 *** Issues while workshop is going on 
     Feedback link was not working on edX platform.
+
 
 * Analysis/observations
   - Over the LAN :: 50 students can use College Cloud at a time using

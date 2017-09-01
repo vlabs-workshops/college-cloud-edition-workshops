@@ -123,7 +123,7 @@
      labs.
   5. Submission of feedback
   
-* Things that went wrong
+* Things that went wrong/can be improved
   1. Hard Disk Drives Cloning.
      + They purchased external 1TB HDDs instead of 500 GB Internal HDDs
   2. Ubuntu Virtual box was not named properly. Typo in Virtual-Box
