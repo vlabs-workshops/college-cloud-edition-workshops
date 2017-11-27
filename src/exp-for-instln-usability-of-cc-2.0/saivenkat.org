@@ -13,5 +13,5 @@ This report is made by Saivenkat stating the feedback on documentation of Colleg
 **Feedback
 The documentation is good except at some part like i have much time in setting the configuration of router and
 running vargrant,Once it is done rest went smoothly.
-I have a error at 6.1.1 where the path for log file should be /var/www/html/<.....> here Html is missing in the documentation
+There is an error at 6.1.1 where the path for log file should be /var/www/html/<.....> here Html is missing in the documentation
 Usage is easy to understand
