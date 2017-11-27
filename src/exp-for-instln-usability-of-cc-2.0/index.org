@@ -1,4 +1,4 @@
-#+TITLE: Experiment for understanding the usability and ease of installation of College Cloud
+#+TITLE: Experiment for understanding the usability and ease of installation of College Cloud-2.0
 #+DATE: [2017-11-27 Mon]
 #+PROPERTY: results output
 #+PROPERTY: exports code
@@ -7,3 +7,16 @@
 #+LATEX: Literal LaTeX code for export
 
 * Introduction
+This is a report made by Raghupathi Kammari on the work done by the
+four winter interns: sai venkat, vishnutej reddy, subramanyam and sai
+pradeep.
+
+All the four interns started working from 12PM on 27-11-217. They were
+assigned to [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][work]] on experiment for understanding the usability and
+ease of installation of College Cloud 2.0.
+
+1. [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][sai venkat]]
+2. [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][vishnutej reddy]]
+3. [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][subramanyam]]
+4. [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][sai pradeep]]
+
