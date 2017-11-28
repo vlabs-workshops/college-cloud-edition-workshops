@@ -1,0 +1,17 @@
+#+TITLE: Feedback on understanding the usability and ease of installation of College Cloud-2.0
+#+DATE: [2017-11-27 Mon]
+#+PROPERTY: results output
+#+SETUPFILE: ./org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+This report is made by Saivenkat stating the feedback on documentation of College Cloud-2.0
+
+
+** Feedback
+The documentation is good except at some part like i have much time in setting the configuration of router and
+running vargrant and for some of the routers IP is not mentioned ,Once it is done rest went smoothly.
+There is an error at 6.1.1 where the path for log file should be /var/www/html/<.....> here Html is missing in the documentation
+Usage is easy to understand,At some points it is not mentioned where to change like in local machine or server.
