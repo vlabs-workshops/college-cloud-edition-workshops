@@ -1,0 +1,27 @@
+#+TITLE: Feedback on understanding the usability and ease of installation of College Cloud-2.0
+#+DATE: [2017-11-28 Tue]
+#+PROPERTY: results output
+#+SETUPFILE: ./org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+This report is made by Lalith stating the feedback on documentation of College Cloud-2.0
+
+
+* Feedback
+- The instructions provided in the document are in simple understandable way.
+
+** Issues Faced
+*** Configuring Router
+- Configuring the rourter consumed most of the time.I think that point must be elaborated.
+- Clear instructions about the port connection might be mentioned.
+
+*** Launching Virtual Labs
+- After entering the command 'vagrant up' it showed some errors regarding ttyl and mounting a parition. It was not understood whether the task is done or not. Also the  instructions given in the error are misleading.
+*** Accessing outreach
+- Uable to reach outreach.vlabs.iiit.ac.in.
+
+*** Collecting analytics
+- After running the python script it showed an error that '/var/www/html/college-cloud-data' already exists. So unsure whether the analytics were created or not.
