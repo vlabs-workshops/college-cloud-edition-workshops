@@ -15,8 +15,7 @@ All the four interns started working from 12PM on 27-11-217. They were
 assigned to [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][work]] on experiment for understanding the usability and
 ease of installation of College Cloud 2.0.
 
-1. [[link][sai venkat]]
-2. [[link][vishnutej reddy]]
-3. [[link][subramanyam]]
-4. [[link][sai pradeep]]
+1. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/saivenkat/index.org][sai venkat]]
+2. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/subramanyam/index.org][subramanyam]]
+3. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/pradeep/index.org][sai pradeep]]
 
