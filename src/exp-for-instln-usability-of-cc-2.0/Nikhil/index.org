@@ -1,0 +1,28 @@
+#+TITLE: Feedback on understanding the usability and ease of installation of College Cloud-2.0
+#+DATE: [2017-11-27 Mon]
+#+PROPERTY: results output
+#+SETUPFILE: ./org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+This report is made by Nikhil stating the feedback on documentation of College Cloud-2.0
+
+
+* Feedback
+- The doc was little difficult to understand and need some clear instructions in configuration.
+- Need the images of successful attempts after each step so that there is need in rectifying of correct process.
+- There are issues that I faced while running college-cloud.The issues are described below.
+
+* Issues faced
+** Regarding Configuration of College Cloud Server
+- I was not able to understand the process of changing the configuration of the router properly.
+- I tried to search other pages for configuring the router.
+- Keeping some images or more documentation regarding configuration might help.
+- Some introduction about vagrant might help the users.
+- I received some errors while executing the commands 'vagrant up' and 'vagrant up --provision'
+  which were actually avoided.
+- Need of providing a clear information so that confusion might not be arised
+- Jumping of steps have been noticed like after following to vlabs.ac.in ,only the instructions need that to be shown.its showing the part after that too ,which may lead to confusion
+
