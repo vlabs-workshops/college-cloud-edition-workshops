@@ -1,0 +1,25 @@
+#+TITLE: Feedback on understanding the usability and ease of installation of College Cloud-2.0
+#+DATE: [2017-11-27 Mon]
+#+PROPERTY: results output
+#+SETUPFILE: ./org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+This report is made by Sai preetham stating the working of college cloud-2.0
+
+* Feedback
+- The doc needs some clear instructions in configuration.
+- Need the images of successful attempts after each step so that there is need in rectifying of correct process.
+- There are issues that I faced while running college-cloud.The issues are described below.
+
+* Issues faced
+** Regarding Configuration of College Cloud Server
+- I was not able to understand the process of changing the configuration of the router properly.
+- I tried changing the router settings to required but that didn't work for me. 
+- Keeping some images or more documentation regarding configuration might help.
+- While using vagrant up and vagrant up --provision I got some errors related to SSH 
+- While using vagrant up and vagrant up --provision I got some errors even though I cleared SSH error 
+  which were actually avoided.
+- While using ifconfig ip value is not obtained (in num may be because of wrong configuration done)
