@@ -1,0 +1,25 @@
+#+TITLE: Feedback on understanding the usability and ease of installation of College Cloud-2.0
+#+DATE: [2017-11-27 Mon]
+#+PROPERTY: results output
+#+SETUPFILE: ./org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+This report is made by Pradeep stating the feedback on documentation of College Cloud-2.0
+
+
+* Feedback
+- The document is good and easy to understand but I feel it would better if it is presented pictorially using some screen shots.
+
+** Issues Faced
+*** Configuring Router
+- The process which consumed most of the time is configuring the router.
+- It was mentioned that the server need to serve 10.2.57.0/24 to its client. I could quite follow this instruction, elaborating this would be helpfull.
+- The statement "Please do not touch the WAN port" is ambiguous.
+
+*** Launching Virtual Labs
+- The clear and sufficent to understand but I faced some issues with netwok manager of my computer.
+  It would be helpfull to provide the CentOS commmand to restart the service manager, and any other debugging tools.
+- While using the command 'vagrant up' it showed some errors regarding ttyl, which is confusing whether it performed the task or not.
