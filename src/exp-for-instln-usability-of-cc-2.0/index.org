@@ -8,13 +8,14 @@
 
 * Introduction
 This is a report made by Raghupathi Kammari on the work done by the
-following winter interns started working from 12PM on 27-11-217. I
-have assigned to [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][work]] on experiment for understanding the usability
-and ease of installation of College Cloud-2.0.
+following winter interns started working from 9:30 AM to 4:30 PM on
+27-11-217 and 28-11-2017. I have assigned to [[http://community.vlabs.ac.in/docs/user-manuals/college-cloud/installation-manual.html][work]] on experiment for
+understanding the usability and ease of installation of College
+Cloud-2.0.
 
 1. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/saivenkat/index.org][Sai Venkat]]
 2. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/subramanyam/index.org][Subramanyam]]
 3. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/pradeep/index.org][Sai Pradeep]]
 4. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/Nikhil/index.org][Nikhil]]
 5. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/preetham/index.org][Preetham]]
-6. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/lalith/report.org][Lalit]]
+6. [[https://github.com/vlabs-workshops/college-cloud-edition-workshops/blob/master/src/exp-for-instln-usability-of-cc-2.0/lalith/report.org][Lalith]]
